@@ -3266,7 +3266,7 @@ input, select, textarea {
 	#resume_section {
 		background-attachment: scroll, scroll, scroll, fixed;
 		background-color: var(--color-why);
-		background-image: url("images/light-tl.svg"), url("images/light-tr.svg"), url("images/overlay.png"), url("../../PoojaKHalannavar.github.io/images/circuits-blue-red-gradient-digital-background.avif");
+		background-image: url("images/light-tl.svg"), url("images/light-tr.svg"), url("images/overlay.png"), url("../images/circuits-blue-red-gradient-digital-background.png");
 		background-position: top left, top right, top left, bottom center;
 		background-repeat: no-repeat, no-repeat, repeat, no-repeat;
 		background-size: 25em, 25em, auto, cover;
